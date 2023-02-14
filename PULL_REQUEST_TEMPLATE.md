@@ -1,0 +1,36 @@
+# Description
+
+[Technical description of changes for the code reviewer to understand]
+
+# Motivation
+
+[Motivation or additional context to explain why these changes were made]
+
+# Unit Testing
+
+[This is a gentle reminder to add unit tests to your code if makes sense to.  If you did not add any tests, provide a brief explanation of why not.]
+
+[If you would like help workshopping ideas on how to best add unit tests, or what to test, mention that as well]
+
+# Manual Testing
+
+[List of manual tests performed.]
+
+Reviewer, please add a comment to the PR of any other additional manual tests that would be valuable to consider.
+
+# Screenshots/Videos
+
+[Required for UI or UX changes]
+
+# Ready to Review
+
+All of the below must pass 100% before marking the PR as Ready to Review.  Any exceptions should be explained here or in the PR comments.
+
+- [ ]  All unit tests pass
+- [ ]  All linter and static analysis warnings addressed
+- [ ]  All temporary testing code removed
+
+# Before Merging
+
+1. Merge the base branch (usually develop) into this branch first
+2. Rerun all formatters, linters, and unit tests and ensure all pass
