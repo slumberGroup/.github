@@ -4,11 +4,11 @@
 
 ## Description
 
-[Technical description of changes for the code reviewer to understand]
+[How and What - Technical description of changes for the code reviewer to understand]
 
 ## Motivation
 
-[Motivation or additional context to explain why these changes were made]
+[Why - Motivation or additional context to explain why these changes were made]
 
 ## Unit Testing
 
