@@ -8,7 +8,7 @@
 
 ## Motivation
 
-[Why - Motivation or additional context to explain why these changes were made]
+[Why - Motivation or additional context to explain why these changes were made.  This section is optional.]
 
 ## Unit Testing
 
