@@ -7,11 +7,11 @@ Use this PR template whenever an existing third party dependency is updated.
 | ExampleLib      | 1.2.3       | 1.4.0       | [release notes](example.com/whats_new)   |
 
 
-## ExampleLib
+### ExampleLib
 
 Create a section for each updated dependency and copy over all relevant release notes between the old version and the new version.
 
-Answer the following two questions:
+Answer the following questions:
 - **Code Changes Made**: What code changes were necessary to make this updated dependency work.
 - **Future Changes Needed**: What code changes will be necessary to make in the future and why.  Create and link shortcut stories as needed.
 - **Potential Risks**: Highlight any potential risks this update might introduce.
