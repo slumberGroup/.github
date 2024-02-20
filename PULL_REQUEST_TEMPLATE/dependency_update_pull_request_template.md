@@ -7,7 +7,7 @@ Use this PR template whenever an existing third party dependency is updated.
 | ExampleLib      | 1.2.3       | 1.4.0       | [release notes](example.com/whats_new)   |
 
 
-### ExampleLib
+## ExampleLib
 
 Create a section for each updated dependency and copy over all relevant release notes between the old version and the new version.
 
