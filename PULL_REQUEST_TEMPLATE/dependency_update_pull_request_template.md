@@ -4,7 +4,7 @@ Use this PR template whenever an existing third party dependency is updated.
 
 | Dependency Name | Old Version | New Version | Release Notes URL |
 |-----------------|-------------|-------------|-------------------|
-| ExampleLib      | 1.2.3       | 1.4.0       | [release notes](example.com/whats_new)   |
+| ExampleLib      | 1.2.3       | 1.4.0       | [1.3.0 release notes](example.com/whats_new_130), [1.4.0 release notes](example.com/whats_new_140)|
 
 
 ## Description
