@@ -11,7 +11,7 @@ Use this PR template whenever an existing third party dependency is updated.
 
 **Code Changes Made**
 - What code changes were necessary to make the updated dependencies work.
-- NOTE: Any non trivial changes should be done in a seperate PR
+- NOTE: Any non trivial changes must be done in a seperate PR
 
 **Future Changes Needed**:
 - What code changes will be necessary to make in the future and why.  Create and link shortcut stories as needed.
