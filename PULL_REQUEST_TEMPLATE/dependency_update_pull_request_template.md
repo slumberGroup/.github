@@ -1,5 +1,3 @@
-Use this PR template whenever an existing third party dependency is updated.
-
 ## Overview
 
 | Dependency Name | Old Version | New Version | Release Notes URL |
