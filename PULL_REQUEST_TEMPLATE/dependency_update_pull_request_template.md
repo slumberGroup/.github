@@ -17,6 +17,9 @@
 **Potential Risks**
 - Highlight any potential risks this update might introduce.
 
+**Dependencies Removed**
+- Often the code using a depency is removed, but the dependency is forgotten to be removed from the bundle. Double check if any can be removed.
+
 
 ## Ready to Review
 
