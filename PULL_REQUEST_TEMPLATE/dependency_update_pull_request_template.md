@@ -8,8 +8,9 @@
 ## Description
 
 **Code Changes Made**
-- What code changes were necessary to make the updated dependencies work.
-- NOTE: Any non trivial changes must be done in a seperate PR
+- What minor code changes were necessary to make the updated dependencies work.
+- NOTE: Any non-trivial changes must be done in a seperate PR
+- NOTE: Most changes made by SGCommon are non-trivial and must be done in a seperate PR, this includes localization changes.
 
 **Future Changes Needed**:
 - What code changes will be necessary to make in the future and why.  Create and link shortcut stories as needed.
