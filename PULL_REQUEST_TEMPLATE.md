@@ -1,5 +1,5 @@
 [Instructions:
-- Please complete all sections to your fullest ability. While you may have been working on this PR for several days on a codebase that you have been working on for months to years your reviewer has very little context.  Extra time spent here will help get this PR approved faster.
+- Please complete all sections to your fullest ability. While you may have been working on this PR for several days on a codebase that you have been working on for months to years, your reviewer has very little context.  Extra time spent here will help get this PR approved faster.
 - Delete all instructions inside of [brackets] and delete all sections that don’t apply.]
 
 ## Description
@@ -8,13 +8,11 @@
 
 ## Motivation
 
-[Why - Motivation or additional context to explain why these changes were made.  This section is optional.]
+[Why - Motivation or additional context to explain why these changes were made.
 
 ## Unit Testing
 
-[This is a gentle reminder to add unit tests to your code if makes sense to.  If you did not add any tests, provide a brief explanation of why not.]
-
-[If you would like help workshopping ideas on how to best add unit tests, or what to test, mention that as well]
+[Brief explanation of why there are no unit tests added. If helpful unit tests were made, delete this section. ]
 
 ## Manual Testing
 
