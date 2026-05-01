@@ -8,11 +8,11 @@
 
 ## Motivation
 
-[Why - Motivation or additional context to explain why these changes were made.
+[Why - Motivation or additional context to explain why these changes were made.]
 
 ## Unit Testing
 
-[Brief explanation of why there are no unit tests added. If helpful unit tests were made, delete this section. ]
+[Brief explanation of why there are no unit tests added. If helpful unit tests were made, delete this section.]
 
 ## Manual Testing
 
@@ -34,5 +34,5 @@ All of the below must pass 100% before marking the PR as Ready to Review.  Any e
 
 ## Before Merging
 
-1. Merge the base branch (usually develop) into this branch first
-2. Rerun all formatters, linters, and pre-submit unit tests and ensure all pass
+- Merge the base branch (usually develop) into this branch first
+- Rerun all formatters, linters, and pre-submit unit tests and ensure all pass
