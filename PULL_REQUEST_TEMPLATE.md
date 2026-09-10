@@ -10,6 +10,10 @@
 
 [Why - Motivation or additional context to explain why these changes were made.]
 
+## Context
+Notion:
+Bugsnag: 
+
 ## Unit Testing
 
 [Brief explanation of why there are no unit tests added. If helpful unit tests were made, delete this section.]
